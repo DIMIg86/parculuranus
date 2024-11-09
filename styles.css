@@ -1,0 +1,22 @@
+@font-face {
+font-family: "CustomFont";
+src: url("fonts/Klavika-Bold_0.otf");
+}
+
+
+body {
+  font-family: "CustomFont";
+}
+
+a
+{
+  color:black;
+  font-size:72pt;
+  text-decoration: underline;
+}
+
+img
+{
+  width: 100%;
+  position: static;
+}
